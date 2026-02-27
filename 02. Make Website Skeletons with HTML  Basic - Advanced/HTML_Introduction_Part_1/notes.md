@@ -32,5 +32,5 @@ Inline: <a>, <strong>, <span> - Always displayed on the same line
 Block: <p>, <div>, <h1> - Occupy full width of the web page
 
 Formatting Tags:
-    Physical Tags: <i>, <b>
+    Physical Tags: <i>, <b>, <u>
     Semantic Tags: <article>, <nav>, <header>
