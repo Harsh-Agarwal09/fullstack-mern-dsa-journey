@@ -14,6 +14,8 @@ semantic tags: Tags that has some meaning. Ex: <main>, <h1>, <article>
 non-semantic tags: Tags that has no meaning. Ex: <div>, <span>
 <div>: Block level element used to group and organise other elements within a web page. generic container that has no special meaning by default.
 
+**Prefer to use semantic tag as much as possible as compared to non-semantic tag because it is easy to understand especially for visually impared persons using 'window voice navigator' converting the text to voice.**
+
 Elements vs Tags
 
 Tags are used to create elements.
