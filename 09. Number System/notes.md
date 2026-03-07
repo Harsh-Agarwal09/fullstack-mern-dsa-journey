@@ -1,0 +1,1 @@
+In this portion i have learned about: Binary Number, Decimal Number, HexaDecimal NUmber, Conversion of Deciaml to Binary Number, Conversion of Binary to Decimal Number. The concept of number system is required to understand BITWISE OPERATOR.
