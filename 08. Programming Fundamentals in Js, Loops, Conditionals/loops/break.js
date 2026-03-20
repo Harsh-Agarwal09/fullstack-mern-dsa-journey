@@ -4,7 +4,7 @@
 // Example: if (i === 5) break; stops the loop as soon as i reaches 5. 
  
 // Key Difference:
-
+ 
 // break stops the loop entirely.
 // continue skips only the current iteration and continues the loop.
 
